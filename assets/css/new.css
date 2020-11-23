@@ -1,0 +1,13 @@
+.slider-product-image img {
+	max-height: 498px;
+	height: 100%;
+}
+
+.product-image img {
+	max-height: 292px;
+	height: 100%;
+}
+.single-product-items a img {
+	max-height: 310px;
+	height: 100%;
+}
